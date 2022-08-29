@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "81HY2ZC6Lyop9TrUMX9ZKXfTO6RDpTr/MWRBSkbclAU=",
+  "Source": "AuthJwtRefresh",
+  "BasePath": "_content/AuthJwtRefresh",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
